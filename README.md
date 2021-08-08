@@ -9,6 +9,15 @@ Software Engineer Frontend, Impulso Network
 
 Acessando a API do GITHub e fazendo uma pesquisa de usuarios.
 
+
+## Install libs
+
+npx create-react-app github-first-app
+
+npm install --save react-tabs
+
+npm i styled-components
+
 ## Erros encontrados
 
 Arquivo axios em falta
