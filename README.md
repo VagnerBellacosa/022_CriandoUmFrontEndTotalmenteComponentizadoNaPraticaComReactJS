@@ -19,3 +19,7 @@ Arquivos com vulnerabilidades
 
 npm audit fix --force
 
+erro  Unexpected token (13:9)
+
+npm install babel-preset-react
+
