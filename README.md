@@ -18,6 +18,8 @@ npm install --save react-tabs
 
 npm i styled-components
 
+npm install git-state --save
+
 ## Erros encontrados
 
 Arquivo axios em falta
