@@ -20,6 +20,8 @@ npm i styled-components
 
 npm install git-state --save
 
+npm update typescript
+
 ## Erros encontrados
 
 Arquivo axios em falta
